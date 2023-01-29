@@ -1,4 +1,4 @@
-# Math-it-Out
+# Math-it-Out: https://kazitasin07.wixsite.com/math-it-out/home
 This repository was used for task tracking and setting up Cohere. The Cohere communications were integrated on Wix Velo.
 
 ## Inspiration
