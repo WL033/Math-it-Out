@@ -1,4 +1,5 @@
 # Math-it-Out
+This repository was used for task tracking. The Cohere communications were integrated on Wix Velo.
 
 ## Inspiration
 
@@ -7,8 +8,15 @@ Our team is dedicated to helping individuals who struggle with math at all level
 ## What it does
 
 Our software utilizes Cohere's advanced API to generate a supply of tailored math problems, catering to students of all grade levels. With its personalized learning options, you can take control of your education and tailor your experience to fit your needs. Not only that, but you can also challenge your friends to head-to-head competitions, track your progress on the leaderboard and even customize your avatar as you climb the ranks. Furthermore, teachers can create groups and adjust difficulty levels to suit the needs of their students, making it the perfect solution for both individual and classroom use. Additionally, we use SMS service to keep you informed and updated on your progress, making it easy to stay on track and reach your goals
-	
 
+#Techstack
+-Cohere NLP
+-Twilio
+-Wix Velo
+-Javascript
+-CSS
+-HTML
+-Python
 
 ## How we built it
 
